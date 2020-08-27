@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nvinayvarma189&style=flat-square)
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-nvinayvarma189-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nvinayvarma189/)
-[![twitter badge](https://img.shields.io/badge/twitter-@roronoazoro_189-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/roronoazoro_189)
 
 
 **I can write image processing pipelines, draw analytics, and build web apps with MERN stack.**
